@@ -1,4 +1,3 @@
-# customer_behaviour_analysis
 # Customer Purchase Behaviour & Insights Tracker
 
 ## Overview
